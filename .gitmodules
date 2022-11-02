@@ -1,0 +1,6 @@
+[submodule "my-choco"]
+	path = my-choco
+	url = git@github.com:Qoyyuum/my-choco.git
+[submodule "my-neovim-init"]
+	path = my-neovim-init
+	url = git@github.com:Qoyyuum/my-neovim-init.git
